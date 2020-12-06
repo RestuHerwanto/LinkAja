@@ -1,4 +1,4 @@
-function codingTest1(){
+const codingTest1 = () => {
   // Define parameters
   var numbers = [1,2,3,4,5];
 
